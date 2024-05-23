@@ -3,7 +3,7 @@
 ## Abstract
 The Eigenfaces method is used for face recognition by reducing the dimensionality of face images using Principal Component Analysis (PCA). This method identifies the components with the most information and captures the most variance. Each face is represented by a combination of eigenfaces, and recognition is performed by comparing the distances between these eigenfaces.
 
-[colab notebook](https://colab.research.google.com/github/Ali-Noghabi/eigenfaces/blob/main/eigenfaces.ipynb)
+[colab notebook](https://colab.research.google.com/github/Ali-Noghabi/eigenfaces/blob/main/Eigenfaces.ipynb)
 
 ## Overview
 
